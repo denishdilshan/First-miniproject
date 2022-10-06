@@ -1,0 +1,93 @@
+.Show{
+    position: absolute;
+    left: 10%;
+    top: 25%;
+    background-color: blueviolet;
+  }
+  .Show2{
+    position: absolute;
+    left: 30%;
+    top: 25%;
+    background-color: rgba(82, 125, 219, 0.397);
+  }
+  .para1{
+      position: absolute;
+      left: 2%;
+      top: 300%;
+      background-color: blueviolet;
+  }
+  .para2{
+      position: absolute;
+      top: 2%;
+      left: 150%;
+      background-color: blueviolet;
+  }
+  .para3{
+      position: absolute;
+      top: 2%;
+      left: 250%;
+      background-color: blueviolet;
+
+  }
+  .para4{
+      position: absolute;
+      top: 2%;
+      left: 350%;
+      background-color: blueviolet;
+
+  }
+  .para5{
+      position: absolute;
+      top: 160%;
+      left: 2%;
+      background-color: blueviolet;
+  }
+  .para6{
+    position: absolute;
+    top: 160%;
+    left: 150%;
+    background-color: blueviolet;
+}
+.para7{
+    position: absolute;
+    top: 160%;
+    left: 250%;
+    background-color: blueviolet;
+}
+.para9{
+    position: absolute;
+    left: 350%;
+    top: 160%;
+    background-color: blueviolet;
+}
+.buttonhome{
+    position: relative;
+    text-align: center;
+    width: 250px;
+    padding: 40px;
+    font-size: 35px;
+    left: 40%;
+    top: 165%;
+    color: #15f4ee;
+    background-color: rgba(148, 141, 141, 0.959);
+    font-family: poppins;
+    font-weight: 400;
+    border: 5px solid #15f4ee;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    cursor: pointer;
+    border-radius: 100px;
+    transition: 1.5s;
+
+}
+.buttonhome:hover{
+    box-shadow: #15f4ee;
+
+}
+.bh{
+    
+    position: absolute;
+    top: 150%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+}
